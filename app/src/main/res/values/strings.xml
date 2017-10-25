@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">provaintermediaria</string>
+    <string name="edit_message">Escreva um número de telefone com nome</string>
+    <string name="button_send">Ligar</string>
+</resources>
